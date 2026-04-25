@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Artem-Maksimenko09/java-project-71/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Artem-Maksimenko09/java-project-71/actions)
